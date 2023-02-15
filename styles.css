@@ -292,6 +292,53 @@ article > img {
     opacity: 1;
 }
 
+.legacy-form-row {
+    border: none;
+}
+
+#gender-1 {
+    opacity: 1;
+}
+
+#gender-2 {
+    opacity: 1;
+}
+
+#email {
+    opacity: 1;
+}
+
+.form-row select {
+    width: 20%;
+    padding: 5px;
+}
+
+.form-row {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.form-row button {
+    font-size: 16px;
+    font-weight: bold;
+  
+    color: #FFFFFF;
+    background-color: #5995DA;
+  
+    border: none;
+    border-radius: 3px;
+  
+    padding: 10px 40px;
+    cursor: pointer;
+}
+  
+  .form-row button:hover {
+    background-color: #76AEED;
+}
+  
+  .form-row button:active {
+    background-color: #407FC7;
+}
+
 a {
     color: white;
     text-decoration: none;
